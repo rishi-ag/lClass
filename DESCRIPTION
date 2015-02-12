@@ -1,0 +1,7 @@
+Package: lClass
+Title: Basic Classifier Functions
+Version: 0.0.1
+Authors@R: person("Rishabh", "Agnihotri", , "rishabh.agnihotri@barcelonagse.eum", role = c("aut", "cre"))
+Description: Functions for classifiers
+Depends: R (>= 3.1.1), assertthat, mvtnorm
+License: see LICENSE
